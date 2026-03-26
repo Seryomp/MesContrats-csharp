@@ -1,0 +1,11 @@
+C:\Users\Ryo\source\repos\MesContrats\bin\Debug\net10.0\MesContrats.deps.json
+C:\Users\Ryo\source\repos\MesContrats\bin\Debug\net10.0\MesContrats.dll
+C:\Users\Ryo\source\repos\MesContrats\bin\Debug\net10.0\MesContrats.pdb
+C:\Users\Ryo\source\repos\MesContrats\obj\Debug\net10.0\MesContrats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryo\source\repos\MesContrats\obj\Debug\net10.0\MesContrats.AssemblyInfoInputs.cache
+C:\Users\Ryo\source\repos\MesContrats\obj\Debug\net10.0\MesContrats.AssemblyInfo.cs
+C:\Users\Ryo\source\repos\MesContrats\obj\Debug\net10.0\MesContrats.csproj.CoreCompileInputs.cache
+C:\Users\Ryo\source\repos\MesContrats\obj\Debug\net10.0\MesContrats.dll
+C:\Users\Ryo\source\repos\MesContrats\obj\Debug\net10.0\refint\MesContrats.dll
+C:\Users\Ryo\source\repos\MesContrats\obj\Debug\net10.0\MesContrats.pdb
+C:\Users\Ryo\source\repos\MesContrats\obj\Debug\net10.0\ref\MesContrats.dll

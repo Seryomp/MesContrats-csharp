@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../cslContrat/cslContrat.csproj">
+    <BuildDependency Project="../FrmContrats/FrmContrats.csproj" />
+  </Project>
+  <Project Path="../FrmContrats/FrmContrats.csproj" />
+  <Project Path="MesContrats.csproj" />
+</Solution>
