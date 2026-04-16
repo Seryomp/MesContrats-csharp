@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Éléments de solution/">
+    <File Path="Class1.cs" />
+  </Folder>
+  <Project Path="csl/csl.csproj" />
+  <Project Path="CyberForm/CyberForm.csproj" />
+  <Project Path="Cybersecu/Cybersecu.csproj" />
+</Solution>

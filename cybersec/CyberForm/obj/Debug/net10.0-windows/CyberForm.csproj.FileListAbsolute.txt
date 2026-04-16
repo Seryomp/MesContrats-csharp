@@ -1,0 +1,16 @@
+C:\Users\Ryo\source\repos\Cybersecu\CyberForm\bin\Debug\net10.0-windows\CyberForm.exe
+C:\Users\Ryo\source\repos\Cybersecu\CyberForm\bin\Debug\net10.0-windows\CyberForm.deps.json
+C:\Users\Ryo\source\repos\Cybersecu\CyberForm\bin\Debug\net10.0-windows\CyberForm.runtimeconfig.json
+C:\Users\Ryo\source\repos\Cybersecu\CyberForm\bin\Debug\net10.0-windows\CyberForm.dll
+C:\Users\Ryo\source\repos\Cybersecu\CyberForm\bin\Debug\net10.0-windows\CyberForm.pdb
+C:\Users\Ryo\source\repos\Cybersecu\CyberForm\obj\Debug\net10.0-windows\CyberForm.Form1.resources
+C:\Users\Ryo\source\repos\Cybersecu\CyberForm\obj\Debug\net10.0-windows\CyberForm.csproj.GenerateResource.cache
+C:\Users\Ryo\source\repos\Cybersecu\CyberForm\obj\Debug\net10.0-windows\CyberForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryo\source\repos\Cybersecu\CyberForm\obj\Debug\net10.0-windows\CyberForm.AssemblyInfoInputs.cache
+C:\Users\Ryo\source\repos\Cybersecu\CyberForm\obj\Debug\net10.0-windows\CyberForm.AssemblyInfo.cs
+C:\Users\Ryo\source\repos\Cybersecu\CyberForm\obj\Debug\net10.0-windows\CyberForm.csproj.CoreCompileInputs.cache
+C:\Users\Ryo\source\repos\Cybersecu\CyberForm\obj\Debug\net10.0-windows\CyberForm.dll
+C:\Users\Ryo\source\repos\Cybersecu\CyberForm\obj\Debug\net10.0-windows\refint\CyberForm.dll
+C:\Users\Ryo\source\repos\Cybersecu\CyberForm\obj\Debug\net10.0-windows\CyberForm.pdb
+C:\Users\Ryo\source\repos\Cybersecu\CyberForm\obj\Debug\net10.0-windows\CyberForm.genruntimeconfig.cache
+C:\Users\Ryo\source\repos\Cybersecu\CyberForm\obj\Debug\net10.0-windows\ref\CyberForm.dll

@@ -1,0 +1,11 @@
+C:\Users\Ryo\source\repos\Cybersecu\Cybersecu\bin\Debug\net10.0\Cybersecu.deps.json
+C:\Users\Ryo\source\repos\Cybersecu\Cybersecu\bin\Debug\net10.0\Cybersecu.dll
+C:\Users\Ryo\source\repos\Cybersecu\Cybersecu\bin\Debug\net10.0\Cybersecu.pdb
+C:\Users\Ryo\source\repos\Cybersecu\Cybersecu\obj\Debug\net10.0\Cybersecu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryo\source\repos\Cybersecu\Cybersecu\obj\Debug\net10.0\Cybersecu.AssemblyInfoInputs.cache
+C:\Users\Ryo\source\repos\Cybersecu\Cybersecu\obj\Debug\net10.0\Cybersecu.AssemblyInfo.cs
+C:\Users\Ryo\source\repos\Cybersecu\Cybersecu\obj\Debug\net10.0\Cybersecu.csproj.CoreCompileInputs.cache
+C:\Users\Ryo\source\repos\Cybersecu\Cybersecu\obj\Debug\net10.0\Cybersecu.dll
+C:\Users\Ryo\source\repos\Cybersecu\Cybersecu\obj\Debug\net10.0\refint\Cybersecu.dll
+C:\Users\Ryo\source\repos\Cybersecu\Cybersecu\obj\Debug\net10.0\Cybersecu.pdb
+C:\Users\Ryo\source\repos\Cybersecu\Cybersecu\obj\Debug\net10.0\ref\Cybersecu.dll
